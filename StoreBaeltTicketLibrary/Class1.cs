@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassLibrary
+namespace StoreBaeltTicketLibrary
 {
     public class Class1
     {
